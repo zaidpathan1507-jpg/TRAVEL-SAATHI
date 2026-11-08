@@ -1,0 +1,98 @@
+[
+  {
+    "id": "heritage",
+    "name": "Pune Heritage Walks",
+    "host": "Raj Deshpande",
+    "verified": true,
+    "responseMin": 8,
+    "since": 2017
+  },
+  {
+    "id": "mitti",
+    "name": "Mitti Studio",
+    "host": "Kavya Joshi",
+    "verified": true,
+    "responseMin": 15,
+    "since": 2020
+  },
+  {
+    "id": "warli",
+    "name": "Warli Ghar Collective",
+    "host": "Sunita Mhase",
+    "verified": true,
+    "responseMin": 30,
+    "since": 2021
+  },
+  {
+    "id": "mithai",
+    "name": "Peth Mithai Studio",
+    "host": "Anjali Kulkarni",
+    "verified": true,
+    "responseMin": 12,
+    "since": 2019
+  },
+  {
+    "id": "sur",
+    "name": "Sur Baithak",
+    "host": "Aniket Bapat",
+    "verified": true,
+    "responseMin": 25,
+    "since": 2018
+  },
+  {
+    "id": "irani",
+    "name": "Irani Chai Club",
+    "host": "Farhad Irani",
+    "verified": true,
+    "responseMin": 10,
+    "since": 2016
+  },
+  {
+    "id": "tekdi",
+    "name": "Tekdi Trails",
+    "host": "Omkar Patil",
+    "verified": true,
+    "responseMin": 20,
+    "since": 2019
+  },
+  {
+    "id": "dhol",
+    "name": "Shivgarjana Dhol Pathak",
+    "host": "Sanket Pawar",
+    "verified": false,
+    "responseMin": 45,
+    "since": 2022
+  },
+  {
+    "id": "freedom",
+    "name": "Freedom Trail Pune",
+    "host": "Meera Iyer",
+    "verified": true,
+    "responseMin": 18,
+    "since": 2018
+  },
+  {
+    "id": "kp",
+    "name": "KP Nights Collective",
+    "host": "Rohan D’Souza",
+    "verified": true,
+    "responseMin": 14,
+    "since": 2021
+  },
+  {
+    "id": "engines",
+    "name": "Little Engines Museum",
+    "host": "Vikram Joshi",
+    "verified": true,
+    "responseMin": 22,
+    "since": 2015
+  },
+  {
+    "id": "weave",
+    "name": "Paithani Weavers’ Loft",
+    "host": "Latika Salvi",
+    "verified": true,
+    "responseMin": 35,
+    "since": 2020
+  }
+]

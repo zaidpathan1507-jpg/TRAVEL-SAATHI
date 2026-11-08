@@ -1,0 +1,1346 @@
+[
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-25",
+    "time": 990,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-25",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-25",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-26",
+    "time": 990,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-26",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-26",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-27",
+    "time": 990,
+    "capacity": 12,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-27",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-27",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-28",
+    "time": 990,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-28",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-28",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-29",
+    "time": 990,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-29",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-29",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-30",
+    "time": 990,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": false
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-30",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-09-30",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-01",
+    "time": 990,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-01",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-01",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-02",
+    "time": 990,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-02",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-02",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-03",
+    "time": 990,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-03",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-03",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-04",
+    "time": 990,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-04",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-04",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-05",
+    "time": 990,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-05",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-05",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-06",
+    "time": 990,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-06",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-06",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-07",
+    "time": 990,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-07",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-07",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-08",
+    "time": 990,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-08",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "date": "2026-10-08",
+    "time": 1140,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-25",
+    "time": 975,
+    "capacity": 15,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-25",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-25",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-26",
+    "time": 975,
+    "capacity": 15,
+    "booked": 15,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-26",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 13,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-26",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 15,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-27",
+    "time": 975,
+    "capacity": 15,
+    "booked": 14,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-27",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-27",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 14,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-28",
+    "time": 975,
+    "capacity": 15,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-28",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-28",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-29",
+    "time": 975,
+    "capacity": 15,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-29",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-29",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-30",
+    "time": 975,
+    "capacity": 15,
+    "booked": 9,
+    "enabled": false
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-30",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-09-30",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-01",
+    "time": 975,
+    "capacity": 15,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-01",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-01",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-02",
+    "time": 975,
+    "capacity": 15,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-02",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-02",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-03",
+    "time": 975,
+    "capacity": 15,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-03",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-03",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-04",
+    "time": 975,
+    "capacity": 15,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-04",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-04",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-05",
+    "time": 975,
+    "capacity": 15,
+    "booked": 1,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-05",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-05",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 1,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-06",
+    "time": 975,
+    "capacity": 15,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-06",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 1,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-06",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-07",
+    "time": 975,
+    "capacity": 15,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-07",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-07",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-08",
+    "time": 975,
+    "capacity": 15,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-08",
+    "time": 1020,
+    "capacity": 15,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "date": "2026-10-08",
+    "time": 1095,
+    "capacity": 15,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-25",
+    "time": 960,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-25",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-26",
+    "time": 960,
+    "capacity": 12,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-26",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-27",
+    "time": 960,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-27",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 11,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-28",
+    "time": 960,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-28",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-29",
+    "time": 960,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-29",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-30",
+    "time": 960,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": false
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-09-30",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-01",
+    "time": 960,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-01",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-02",
+    "time": 960,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-02",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-03",
+    "time": 960,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-03",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-04",
+    "time": 960,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-04",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-05",
+    "time": 960,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-05",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-06",
+    "time": 960,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-06",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-07",
+    "time": 960,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-07",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-08",
+    "time": 960,
+    "capacity": 12,
+    "booked": 1,
+    "enabled": true
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "date": "2026-10-08",
+    "time": 1050,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-25",
+    "time": 970,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-25",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-25",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-25",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-26",
+    "time": 970,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-26",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-26",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-26",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-27",
+    "time": 970,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-27",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-27",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-27",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 12,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-28",
+    "time": 970,
+    "capacity": 12,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-28",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-28",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 10,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-28",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-29",
+    "time": 970,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-29",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-29",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-29",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-30",
+    "time": 970,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": false
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-30",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-30",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-09-30",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 8,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-01",
+    "time": 970,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-01",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-01",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-01",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 5,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-02",
+    "time": 970,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-02",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-02",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-02",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-03",
+    "time": 970,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-03",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-03",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 6,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-03",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 9,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-04",
+    "time": 970,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-04",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-04",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-04",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 7,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-05",
+    "time": 970,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-05",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 1,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-05",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 4,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-05",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 1,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-06",
+    "time": 970,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-06",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-06",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-06",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-07",
+    "time": 970,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-07",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-07",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-07",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 2,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-08",
+    "time": 970,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-08",
+    "time": 1000,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-08",
+    "time": 1030,
+    "capacity": 12,
+    "booked": 3,
+    "enabled": true
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "date": "2026-10-08",
+    "time": 1060,
+    "capacity": 12,
+    "booked": 0,
+    "enabled": true
+  }
+]

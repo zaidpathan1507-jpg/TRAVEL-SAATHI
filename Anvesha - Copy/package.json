@@ -1,0 +1,13 @@
+{
+  "name": "anvesha",
+  "private": true,
+  "description": "Anvesha: intelligent local discovery & experience platform (frontend + FastAPI backend + SQLite database)",
+  "scripts": {
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "dev": "npm --prefix frontend run dev",
+    "start:backend": "cd backend && python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000",
+    "seed:backend": "cd backend && python seed_database.py",
+    "test:backend": "node backend/test/smoke.mjs"
+  }
+}

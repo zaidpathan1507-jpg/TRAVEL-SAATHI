@@ -1,0 +1,200 @@
+[
+  {
+    "experienceId": "pune-food-walk",
+    "name": "Priya S.",
+    "from": "Bengaluru",
+    "rating": 5,
+    "text": "Our kids (7 and 10) loved the mastani stop. Raj adjusted the spice for them at every counter.",
+    "when": "2 weeks ago",
+    "type": "Family"
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "name": "Daniel K.",
+    "from": "Berlin",
+    "rating": 5,
+    "text": "The best way to understand Pune. Small group, great stories, far more food than I expected.",
+    "when": "1 month ago",
+    "type": "Solo"
+  },
+  {
+    "experienceId": "pune-food-walk",
+    "name": "Neha & Arjun",
+    "from": "Mumbai",
+    "rating": 4,
+    "text": "Loved it. Evenings get busy in the lanes, so go for the 4:30 slot if you can.",
+    "when": "1 month ago",
+    "type": "Couple"
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "name": "Kiran M.",
+    "from": "Hyderabad",
+    "rating": 5,
+    "text": "Short, punchy and full of drama. My parents loved it.",
+    "when": "3 weeks ago",
+    "type": "Family"
+  },
+  {
+    "experienceId": "shaniwar-wada-story",
+    "name": "Sara L.",
+    "from": "London",
+    "rating": 4,
+    "text": "Great intro to Pune’s history before the food walk.",
+    "when": "2 months ago",
+    "type": "Solo"
+  },
+  {
+    "experienceId": "mitti-pottery",
+    "name": "Aditi R.",
+    "from": "Delhi",
+    "rating": 5,
+    "text": "Saved our rainy afternoon! Kavya is so patient with kids.",
+    "when": "1 week ago",
+    "type": "Family"
+  },
+  {
+    "experienceId": "mitti-pottery",
+    "name": "Tom & Mia",
+    "from": "Sydney",
+    "rating": 5,
+    "text": "Our wonky bowls arrived home safely. Lovely studio.",
+    "when": "1 month ago",
+    "type": "Couple"
+  },
+  {
+    "experienceId": "peth-mithai-studio",
+    "name": "Rhea P.",
+    "from": "Chennai",
+    "rating": 5,
+    "text": "Short and sweet, literally. Grandma loved the stories.",
+    "when": "5 days ago",
+    "type": "Family"
+  },
+  {
+    "experienceId": "peth-mithai-studio",
+    "name": "Ishaan",
+    "from": "Pune",
+    "rating": 4,
+    "text": "Solid rainy-day plan. The mastani station is the highlight.",
+    "when": "3 weeks ago",
+    "type": "Friends"
+  },
+  {
+    "experienceId": "kasba-ganpati",
+    "name": "Vaishali",
+    "from": "Nashik",
+    "rating": 5,
+    "text": "Short, calm and full of stories. Perfect filler before dinner.",
+    "when": "1 week ago",
+    "type": "Family"
+  },
+  {
+    "experienceId": "dhol-tasha",
+    "name": "Meghna",
+    "from": "Nagpur",
+    "rating": 5,
+    "text": "Goosebumps. My son still drums on every table.",
+    "when": "2 weeks ago",
+    "type": "Family"
+  },
+  {
+    "experienceId": "dhol-tasha",
+    "name": "Luca",
+    "from": "Milan",
+    "rating": 5,
+    "text": "Nothing else like it. So welcoming.",
+    "when": "1 month ago",
+    "type": "Solo"
+  },
+  {
+    "experienceId": "tulshibaug-market",
+    "name": "Fatima",
+    "from": "Kochi",
+    "rating": 4,
+    "text": "Came home with a copper pot and zero regrets.",
+    "when": "3 weeks ago",
+    "type": "Friends"
+  },
+  {
+    "experienceId": "warli-workshop",
+    "name": "Ananya",
+    "from": "Bengaluru",
+    "rating": 5,
+    "text": "Meditative and beautiful. The artist’s stories were the best part.",
+    "when": "2 weeks ago",
+    "type": "Solo"
+  },
+  {
+    "experienceId": "natya-sangeet",
+    "name": "Gauri",
+    "from": "Pune",
+    "rating": 5,
+    "text": "Felt like being invited into someone’s home.",
+    "when": "1 month ago",
+    "type": "Couple"
+  },
+  {
+    "experienceId": "irani-cafe-trail",
+    "name": "Zoya",
+    "from": "Lucknow",
+    "rating": 5,
+    "text": "Cosy and delicious. Loved the mawa cake stop.",
+    "when": "1 week ago",
+    "type": "Friends"
+  },
+  {
+    "experienceId": "vetal-tekdi",
+    "name": "Rahul",
+    "from": "Surat",
+    "rating": 4,
+    "text": "Didn’t expect so much green inside the city.",
+    "when": "2 weeks ago",
+    "type": "Friends"
+  },
+  {
+    "experienceId": "parvati-sunset",
+    "name": "Omkar",
+    "from": "Pune",
+    "rating": 4,
+    "text": "Classic Pune sunset spot.",
+    "when": "1 month ago",
+    "type": "Friends"
+  },
+  {
+    "experienceId": "aga-khan-freedom",
+    "name": "Helen",
+    "from": "Toronto",
+    "rating": 5,
+    "text": "Moving and very well told.",
+    "when": "3 weeks ago",
+    "type": "Couple"
+  },
+  {
+    "experienceId": "kp-live-music",
+    "name": "Kabir",
+    "from": "Delhi",
+    "rating": 4,
+    "text": "Great lineup, loud and fun.",
+    "when": "1 week ago",
+    "type": "Friends"
+  },
+  {
+    "experienceId": "miniature-railway",
+    "name": "Sneha",
+    "from": "Indore",
+    "rating": 5,
+    "text": "Our 5-year-old refused to leave!",
+    "when": "2 weeks ago",
+    "type": "Family"
+  },
+  {
+    "experienceId": "paithani-weaving",
+    "name": "Revathi",
+    "from": "Coimbatore",
+    "rating": 5,
+    "text": "Mesmerising craft. Free and generous.",
+    "when": "1 month ago",
+    "type": "Family"
+  }
+]
